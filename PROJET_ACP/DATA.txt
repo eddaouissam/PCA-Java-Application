@@ -1,0 +1,7 @@
+Saisir les dimensions(délimmtié par des virgules):
+4,2
+Saisir la matrice des données(délimité par des tabulations(espace)):
+2 2
+2 3
+4 5
+4 6
